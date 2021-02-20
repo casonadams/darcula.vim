@@ -1,6 +1,6 @@
 # darcula.vim
 
-darcula port to vim
+[darcula](https://github.com/bulenkov/Darcula) port to vim 
 
 ## options
 
@@ -18,6 +18,6 @@ darcula port to vim
 
 `let g:darcula_bold = 0`
 
-### underline stlye
+### underline style
 
 `let g:darcula_underline = 1`
