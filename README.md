@@ -1,6 +1,8 @@
+<div style="text-align:center"><img src="image.png" /></div>
+
 # darcula.vim
 
-[darcula](https://github.com/bulenkov/Darcula) port to vim 
+[darcula](https://github.com/bulenkov/Darcula) port to vim
 
 ## options
 
